@@ -27,3 +27,5 @@ for i in range(1, 5):
                 print(i+j*10+k*100)
                 count += 1
 print("一共有%d个三位数" % count)
+
+print("我妹爱看哈哈哈哈哈")
