@@ -30,3 +30,4 @@ print("一共有%d个三位数" % count)
 
 print("我妹爱看哈哈哈哈哈")
 print("jenkins测试开始啦。")
+print("测试一下scm")
